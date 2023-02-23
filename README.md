@@ -1,2 +1,2 @@
-# analizador-de-n-meros
-site que fa estátistica
+# analizador-de-numeros
+site que faz estátistica
